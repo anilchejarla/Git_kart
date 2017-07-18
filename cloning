@@ -1,5 +1,5 @@
 Open the terminal and type like..
-$ git clone http//:........
+$ git clone https://github.com/anilchejarla/Git_kart.git
 $ ls
 $ cd Git_kart
 $ ls
